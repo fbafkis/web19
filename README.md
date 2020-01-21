@@ -1,7 +1,7 @@
 ***TODO***
 
 **Backend:**
-- [ ] notifiche messaggistica
+- [x] notifiche messaggistica
 - [ ] fare pagina ssn
 - [ ] modal generate dinamicamente
 
